@@ -17,5 +17,7 @@ This project demonstrates basic augmented reality using OpenCV.
 ## How to Run
 
 1. Place your input video (e.g., `recorded_video.avi`) containing a visible chessboard pattern in the same folder  
-2. Make sure `calibration_data.npz` exists (from Homework #3)  
-3. Run the Python script
+2. Make sure `calibration_data.npz` exists  
+3. Run the Python script : 'ar_pose_number3.py'
+
+![AR Result Screenshot](screenshot.png)
