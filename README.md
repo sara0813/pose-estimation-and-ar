@@ -1,4 +1,4 @@
-# Pose Estimation and AR (Homework #4)
+# Pose Estimation and AR
 
 A project that estimates camera pose using calibration results and renders an AR object—a **3D number '3'**—onto a chessboard pattern in a recorded video using OpenCV.
 
@@ -29,3 +29,11 @@ Ensure the following files are in the same directory:
    - `recorded_video.avi` – your input video with a visible chessboard
    - `calibration_data.npz` – result from camera calibration (Homework #3)
    - `ar_pose_number3.py` – the main script
+
+---
+
+## AR Result Screenshot
+
+Here is a sample result of the AR visualization:
+
+<img src="screenshot.png" alt="AR result" width="500"/>
